@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 64b9786a50cb0c340ba3f509f9cb5ed0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cartis Beautyful
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3ba1b89c8fa0664289193040b5a14e1, type: 3}
+  - {fileID: 12800000, guid: 02de7f7602399a047aa4ce44e6faef3e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
